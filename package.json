@@ -1,6 +1,6 @@
 {
-  "name": "desenvolvimento-web",
-  "version": "1.0.0",
+  "name": "fauzer-dev-web",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/fauzer2020/desenvolvimento-web.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Fauzer Adriano Dos Santos",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fauzer2020/desenvolvimento-web/issues"
   },

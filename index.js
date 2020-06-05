@@ -1,3 +1,3 @@
-module.exports = function(str){
-    return str + 'Hello World!'
+module.exports = function(){
+    return 'Hello World! - Fauzer 2020'
 }
